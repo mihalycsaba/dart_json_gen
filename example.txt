@@ -1,0 +1,38 @@
+
+
+phone= 888-555-1212
+relationship      = spouse
+
+createEnv1
+  env =111, 222
+  version n=  3.1,2
+  quest b=true
+  dat d = 2012-04-22 20:18:04+01:00
+  hello
+    world
+      id n = 42
+      phone = yes
+      haha = aaaa
+    ssss
+      fadsfa = sdfaf
+      asdfaf = dfdff
+      emergency[0
+        aks = afdsaf
+        sd = asas
+        sda = sssssssss
+      emergency[1
+        aks = sdfsd[2
+        sd = asas
+        sss b = false
+
+
+
+
+
+
+email =     jd@example.com,    jad@example.org
+duck       = now
+
+
+
+
